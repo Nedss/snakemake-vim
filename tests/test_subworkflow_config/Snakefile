@@ -1,8 +1,0 @@
-configfile: "environment.yml"
-
-subworkflow test:
-    snakefile: "sub.snake"
-
-rule all:
-    input: test('test.txt')
-

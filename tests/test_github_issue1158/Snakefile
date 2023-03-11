@@ -1,3 +1,0 @@
-rule Test:
-    output: "output"
-    shell: "touch {output}"

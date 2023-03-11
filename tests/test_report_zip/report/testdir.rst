@@ -1,1 +1,0 @@
-Files obtained from a directory. This file starts with {{ snakemake.wildcards.name }}. This value has been dynamically inferred from the given pattern.

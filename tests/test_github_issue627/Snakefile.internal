@@ -1,4 +1,0 @@
-rule:
-    output: "job.txt"
-    shell:
-        "./job.py"

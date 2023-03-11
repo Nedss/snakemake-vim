@@ -1,6 +1,0 @@
-rule all:
-    input: "pythonTest"
-
-rule test_github_issue_14:
-    output: "pythonTest"
-    script: "pythonTest.py"

@@ -1,5 +1,0 @@
-rule a:
-    output:
-        multiext("ref/genome", ".ann", ".bwt", ".sa", "_test.fai")
-    shell:
-        "touch {output}"

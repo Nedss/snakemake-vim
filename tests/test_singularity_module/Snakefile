@@ -1,6 +1,0 @@
-module test:
-    snakefile: "module.smk"
-    config: config
-
-
-use rule * from test

@@ -1,2 +1,0 @@
-cluster: "./run_locally.sh"
-cluster-status: "./local_job_status.sh"

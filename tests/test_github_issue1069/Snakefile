@@ -1,5 +1,0 @@
-rule a:
-    output:
-        "test.txt"
-    shell:
-        "touch {output}"

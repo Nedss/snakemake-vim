@@ -1,3 +1,0 @@
-rule all:
-    output: touch('done')
-#include: "tmp/t2.smk" $ snakemake -s merge.smk -j 1 -p

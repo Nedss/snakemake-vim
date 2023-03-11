@@ -1,7 +1,0 @@
-rule a:
-    output:
-        "test.out"
-    envmodules:
-        "dot"
-    shell:
-        "test-env-modules.sh {output}"

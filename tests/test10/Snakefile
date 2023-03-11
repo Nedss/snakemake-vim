@@ -1,7 +1,0 @@
-shell.executable("bash")
-
-rule rule1:
-	input: 'test.in'
-	output: 'test.out'
-	run:
-		shell('cp {input} {output}')
