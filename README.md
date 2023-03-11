@@ -6,7 +6,7 @@ A vim syntax highlighting definition for Snakemake.
 
 To install via Vundle use:
 
-    Plugin 'https://github.com/nedss/snakemake.git'}
+    Plugin 'https://github.com/nedss/snakemake.git'
 
 To install via [vim-plug]( https://github.com/junegunn/vim-plug):
 
